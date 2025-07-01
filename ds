@@ -1,0 +1,13 @@
+- установка
+pacman -Sy archinstall
+Y
+archinstall
+
+- скачивание гит
+sudo pacman -S git https://github.com/willalone/mdk
+
+- Пароль для подключения к машине (vnc) - userroot
+- Пароль от репозитория vorta - vortauser
+
+- гугл диск с вм .ova
+https://drive.google.com/drive/folders/19c0UkQLWFN7y-s0KWGydq8XBqtjO0UKZ?usp=sharing
